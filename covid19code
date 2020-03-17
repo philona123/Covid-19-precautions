@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <title>My Blog</title>
+  </head>
+
+<body>
+  <div class="section">
+     <h1><span>How to stay safe from<font color="#FF000"> Covid-19</font>?</span></h1>
+     <p><i>
+       Covid-19 is an ongoing pandemic caused by <strong>severe acute respiratory syndrome coronavirus 2</strong>. The outbreak was first identified in <strong>Wuhan, Hubei, China</strong> in DEcember 2019 and recognized as a pandemic by the <strong> World Health Organisation (WHO)</strong> on 11 March 2020.
+      As of now, more than 183,000 cases of the disease have been reported in over 160 countries and territories, resulting in more than 7,100 deaths and around 79,000 recoveries.
+     </i><p>
+     
+     <h2>How does covid-19 <font color="#FF000"> spread</font> from person to person?</h2>
+     <ul>
+        <li>Being a respiratory disease, it's transmitted through <strong>respiratory droplets.</strong></li>
+	<li>Through <strong>coughing</strong> and <strong>sneezing.</strong></li>
+	<li><strong>Shaking hands</strong> with infected person unknowingly.</li>
+	<li>Using the things like <strong>hair combs, bath towels</strong> etc of an infected person.</li>
+     </ul>
+
+     <h2>What are the symptoms?</h2>
+     <ol>
+	<li>Fever.</li>
+	<li>Body aches.</li>
+	<li>Coughing.</li>
+	<li>Nasal congestion.</li>
+	<li>Runny nose.</li>
+	<li>Sore throat.</li>
+	<li>Shortness of breath.</li>
+     </ol>
+     
+     <h2>Who all are at a <font color="#FF000">higher risk</font> for Covid-19?</h2>
+     <ul>
+  	<li>Those who are having low immunity like old aged people, newborn babies and children.</li>
+	<li>Those with Chronic medical conditions.</li>
+	<li>Those who have travelled to covid-19 affected countries.</li>
+     </ul>
+	
+     <h2>How can we <font color="#FF000">prevent</font> ourselves from being infected by Covid-19?</h2>
+     <ul>
+	<li><strong><ins>Wash your hands frequently.</ins></strong> Clean your hands with an alcohol-based hand sanitizer or wash them with soap and water.</li>
+	<li><strong><ins>Maintain social distancing.</ins></strong> Maintain at least 1 meter distance between yorself and anyone who is coughing and sneezing.</li>
+	<li><strong><ins>Avoid touching eyes, nose and mouth.</ins></strong> Once contaminated, hands can transfer the virus to your eyes, nose or mouth.</li>
+	<li><strong><ins>If you have any symptoms seek medical care early.</ins></strong> Stay home if you feel unwell. If you have a fever, cough and difficulty breathing, seek medical attention and call in advance.</li>
+	<li><strong><ins>Stay informed and follow advice given by your healthcare provider.</ins></strong> Follow advice given by your healthcare provider, your national and local public health authority and follow WHO website for the updated and information</li>
+	<li><strong><ins>Stay away from wrong informations.</ins></strong> Don't follow the fake instructions that are forwarded through social medias.</li>
+        <li><strong><ins>Do not panic.</ins></strong> Be alert and do not panic. Help others to keep vigilance and be safe. Take care!</li>
+     </ul>
+
+     <h2><font color="#FF000">Myth Busters!</font></h2>
+     <h3><ins>Following are the truths over some of the myths that are said to rumoured and giving wrong information to the people worldwide</ins></h3>.
+     <ul>
+       	<li>From the evidence so far, the COVID-19 virus can be transmitted in <strong>ALL AREAS</strong>, including areas with <strong>hot and humid weather</strong>. Regardless of climate, adopt protective measures if you live in, or travel to an area reporting COVID-19.</li>
+        <li>There is no reason to believe that <strong>cold weather</strong> can kill the new coronavirus or other diseases. The normal human body temperature remains around <strong>36.5°C to 37°C</strong>, regardless of the external temperature or weather.</li>
+        <li>Taking a hot bath will not prevent you from catching COVID-19. Your normal body temperature remains around <strong>36.5°C to 37°C</strong>, regardless of the temperature of your bath or shower. Actually, taking a hot bath with extremely hot water can be harmful, as it can <strong>burn you</strong>.</li>
+        <li>To date there has been no information nor evidence to suggest that the new coronavirus could be <strong>transmitted by mosquitoes</strong>. The new coronavirus is a <strong>respiratory virus</strong> which spreads primarily through droplets generated when an infected person <strong>coughs or sneezes</strong>, or through <strong>droplets of saliva or discharge from the nose</strong>.</li>
+        <li><strong>Spraying alcohol or chlorine</strong> all over your body will not kill viruses that have already entered your body. Spraying such substances can be <strong>harmful to clothes or mucous membranes</strong> (i.e. eyes, mouth).</li>
+     
+     <h4><i>So, it is important to aware yourself about this pandemic disease, its symptoms and the preventive measures to stay protected and healthy. Also it is equally important to stay away from all the myths and fake informations about this disease as a safety precaution. Thank you!!</i></h4>
+           
